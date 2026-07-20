@@ -1,0 +1,2 @@
+# This file ensures the logs/ directory exists.
+# sentinel.json will be created here automatically when you run the server.
